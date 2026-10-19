@@ -1,0 +1,1 @@
+@include('peserta.form', ['peserta' => $peserta])
